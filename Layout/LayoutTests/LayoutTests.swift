@@ -1,15 +1,15 @@
 //
-//  memo_myTests.swift
-//  memo_myTests
+//  LayoutTests.swift
+//  LayoutTests
 //
-//  Created by Владислав Дашкевич on 03.04.2018.
+//  Created by Владислав Дашкевич on 10.04.2018.
 //  Copyright © 2018 Владислав Дашкевич. All rights reserved.
 //
 
 import XCTest
-@testable import memo_my
+@testable import Layout
 
-class memo_myTests: XCTestCase {
+class LayoutTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

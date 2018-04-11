@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  memo_my
+//  Layout
 //
-//  Created by Владислав Дашкевич on 03.04.2018.
+//  Created by Владислав Дашкевич on 10.04.2018.
 //  Copyright © 2018 Владислав Дашкевич. All rights reserved.
 //
 

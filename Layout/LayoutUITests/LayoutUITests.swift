@@ -1,14 +1,14 @@
 //
-//  memo_myUITests.swift
-//  memo_myUITests
+//  LayoutUITests.swift
+//  LayoutUITests
 //
-//  Created by Владислав Дашкевич on 03.04.2018.
+//  Created by Владислав Дашкевич on 10.04.2018.
 //  Copyright © 2018 Владислав Дашкевич. All rights reserved.
 //
 
 import XCTest
 
-class memo_myUITests: XCTestCase {
+class LayoutUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()
