@@ -85,9 +85,7 @@ class ViewController: UIViewController {
     //////////////////////////////////////////////////////////////////////////////////////
     
     func addItemsTo(stack: UIStackView, count: Int) {
-        var counter = 0
         for _ in 1...count {
-            counter += 1
             let view = UIView()
             view.backgroundColor = UIColor.orange
             stack.addArrangedSubview(view)
